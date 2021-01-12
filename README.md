@@ -135,6 +135,8 @@ Your final product will be assessed on the following metrics:
 
 * Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
 
+For this project, the data for 2018 will be analyzed. The following datasets were filtered out due to the limitations of Tableau Public: Gender with "unknown" classifications, all start and end stations that are "null" and anyone born before 1960.
+
 * Good luck!
 
 ### Copyright
